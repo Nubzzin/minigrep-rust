@@ -1,6 +1,5 @@
 # Minigrep em Rust | Minigrep in Rust
+Minigrep in Rust is a simple implementation of a command-line utility for searching for words in files, similar to the grep command. It reads a text file and returns the lines that contain the specified word.
 
-Minigrep em Rust é uma implementação simples de um utilitário de linha de comando para buscar palavras dentro de arquivos, semelhante ao comando grep. Ele lê um arquivo de texto e retorna as linhas que contêm a palavra especificada.
-
-  - Busca insensível a maiúsculas/minúsculas
-  - Simples e eficiente, utilizando Rust para segurança e performance
+- Case-insensitive search
+- Simple and efficient, using Rust for safety and performance
